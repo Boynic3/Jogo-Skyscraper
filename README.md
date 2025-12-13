@@ -10,7 +10,7 @@
   ![Pygame](https://img.shields.io/badge/Pygame-CE-green?style=for-the-badge&logo=pygame&logoColor=white)
   ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-orange?style=for-the-badge)
 
-  [Sobre](#-sobre-o-jogo) • [Funcionalidades](#-funcionalidades) • [Instalação](#-instalação) • [Como Jogar](#-como-jogar) • [Tecnologias](#-tecnologias) • [Resumo](#-resumão)
+  [Sobre](#-sobre-o-jogo) • [Funcionalidades](#-funcionalidades) • [Instalação](#-instalação) • [Como Jogar](#-como-jogar) • [Tecnologias](#-tecnologias-utilizadas)
 
 </div>
 
@@ -100,8 +100,6 @@ Este projeto está sendo construído com paixão utilizando:
 * Pygame: Para criação da janela, renderização de fontes, loops de jogo e gerenciamento de áudio.
 * Colorama: Para estilização de texto colorido no terminal (Cross-platform).
 * IA's: Deepseek, Gemini e ChatGPT para aprender a como desenvolver e melhorar o jogo.
-
-## 📝 Resumão
 
 
 <div align="center">
