@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&width=435&lines=S+K+Y+S+C+R+A+P+E+R" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&width=435&lines=S+K+Y+S+C+R+A+P+E+R" alt="Typing SVG" />
 </div>
   <img src="assets/SkyscraperExpandido.png" alt="Skyscraper Banner" width="100%">
 
