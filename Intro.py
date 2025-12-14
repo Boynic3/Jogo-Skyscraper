@@ -18,7 +18,7 @@ def intro():
     #som de fundo
     #configuracao para pegar da pasta assets
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    AUDIO_PATH = os.path.join(BASE_DIR, "assets", "skyscraper_ambient.wav")
+    AUDIO_PATH = os.path.join(BASE_DIR, "assets", "skyscraper_ambient_intro.wav")
     pygame.mixer.init()
     pygame.mixer.music.load(AUDIO_PATH)
     pygame.mixer.music.set_volume(0.4)
@@ -54,7 +54,7 @@ def intro():
     # ======================
     # POSIÇÕES (mais centralizado)
     center_x = WIDTH // 2
-    base_y = HEIGHT // 2 - 120
+    base_y = HEIGHT // 2 - 175 #aqui ajusta a altura inicial
     sky_y = base_y
     scraper_y = HEIGHT + 80  # começa fora da tela
 
